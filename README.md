@@ -3,7 +3,7 @@
 ## Running the project
 
 To see the tree use:  
-`python3 parser_list_f_ck.py examples/<input.lf> `  
+`python3 parser_lisp_f_ck.py examples/<input.lf> `  
 
 __PS:__ This compiler was created using python3.
 
