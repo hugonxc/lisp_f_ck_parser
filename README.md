@@ -2,9 +2,6 @@
 
 ## Running the project
 
-First install the required dependecies for this project:  
-`pip install -r requirements.txt`
-
 To see the tree use:  
 `python3 parser_list_f_ck.py examples/<input.lf> `  
 
